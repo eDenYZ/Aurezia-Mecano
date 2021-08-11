@@ -7,4 +7,3 @@ JOB MÉCANO EN RAGEUI V2
 - Optimisé 0.01MS
 --------------------------------------------------
 Discord : https://discord.gg/TRc27msPUe
-Clée wirar : Aurezia-Mecano
